@@ -20,24 +20,5 @@ This is a web-based Handwritten Digit Recognition system that allows users to dr
 - **Dataset**: MNIST (Modified National Institute of Standards and Technology)  
 - **Deployment**: Localhost (can be extended to cloud platforms)  
 
-## Installation & Setup  
-
-### 1. Clone the Repository  
-```bash
-git clone https://github.com/D3vn4/HandwrittenDigitRecognition.git
-cd HandwrittenDigitRecognition
-
-### 2. Create a Virtual Environment 
-```bash
-python -m venv venv
-source venv/bin/activate 
-
-### 3. Run the Application
-```bash
-python app.py
-
-### 4. Open in Browser
-```bash
-Go to http://127.0.0.1:5000 in your web browser.
 
 
